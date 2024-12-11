@@ -1,7 +1,7 @@
 import pandas as pd
 
 # read the fatcat alignment file 
-aln_file = "../Data/
+aln_file = "../Data/fatcat_test.aln"
 
 # make list of all the columns of interests
 query=[]
